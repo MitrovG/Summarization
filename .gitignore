@@ -1,5 +1,6 @@
 # Personal ignore
 BBC-News-Summary/
+.idea/
 
 
 # Byte-compiled / optimized / DLL files
