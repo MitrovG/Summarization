@@ -9,7 +9,7 @@ idna==2.8
 lxml==4.3.4
 mccabe==0.6.1
 nltk==3.4.3
-numpy==1.16.4
+numpy==1.22.0
 pycodestyle==2.5.0
 pycountry==18.12.8
 pyflakes==2.1.1
